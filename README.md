@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Jasper Stritzke and I'm 17 years old.
+- 👋 Hi, My name is Jasper Stritzke and I'm 18 years old.
 - 👀 I’m interested in backend and frontend development with Vue and Go
 - 🌱 I’m currently learning Go and React Native
 - 📫 You can reach me at Jasper#3240 or at jasper@stritzke.info
