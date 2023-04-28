@@ -1,3 +1,5 @@
+![banner + ts + white](https://user-images.githubusercontent.com/44339309/235220662-d6fc8364-a04a-45cb-b544-de6b223905f7.png)
+
 - 👋 Hi, My name is Jasper Stritzke and I'm 18 years old.
 - 👀 I’m most interested in botch backend and frontend development with Vue 3 and Go
 - 🌱 I’m currently learning NuxtJS and Go
