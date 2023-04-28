@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Jasper Stritzke and I'm 18 years old.
-- 👀 I’m interested in backend and frontend development with Vue and Go
-- 🌱 I’m currently learning Go and React Native
+- 👀 I’m most interested in botch backend and frontend development with Vue 3 and Go
+- 🌱 I’m currently learning NuxtJS and Go
 - 📫 You can reach me at Jasper#3240 or at jasper@stritzke.info
 
 <!---
