@@ -3,7 +3,7 @@
 - 👋 Hi, my name is Jasper Stritzke, I'm 18 years old and I tell computers what to do.
 - 👀 I’m most interested in both backend and frontend development with Vue 3 and Go
 - 🌱 I’m currently learning NuxtJS and Go
-- 📫 You can reach me at 0xjasper or at jasper@stritzke.info
+- 📫 You can reach me on Discord @0xjasper or send me an email to jasper@stritzke.info
 
 <!---
 JasperStritzke/JasperStritzke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
