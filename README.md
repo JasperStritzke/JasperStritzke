@@ -2,7 +2,7 @@
 
 - 👋 Hi, my name is Jasper Stritzke, I'm 19 years old and I like coding ✨pretty✨ stuff :D.
 - 🎓 CS Student @TU Munich in Germany
-- 📫 You can reach me on Discord @0xjasper or send me an email to jasper@stritzke.info
+- 📫 You can reach me on Discord @0xjasper or send me an email to contact@jasper.sh
 
 <!---
 JasperStritzke/JasperStritzke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
